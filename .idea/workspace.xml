@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="633f4830-3a71-4a33-8a25-ded5313d5c6f" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MachineForInsects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineForInsects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/pred_line1_step1_丘北-锦屏_ssp245_model_brown.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/pred_line1_step1_丘北-锦屏_ssp245_white_model.joblib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pred_line1_step1_丘北-锦屏_ssp245.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/pred_line1_step1_丘北-锦屏_ssp245.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prediction_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/prediction_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -167,7 +174,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MachineForInsects$main_function.coverage" NAME="main_function 覆盖结果" MODIFIED="1741704846146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MachineForInsects$main_function.coverage" NAME="main_function 覆盖结果" MODIFIED="1741743894916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineForInsects$prediction_function.coverage" NAME="prediction_function 覆盖结果" MODIFIED="1741704842512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineForInsects$image_generate.coverage" NAME="image_generate 覆盖结果" MODIFIED="1741663025449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

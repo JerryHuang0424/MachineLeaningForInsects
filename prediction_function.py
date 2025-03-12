@@ -154,7 +154,7 @@ def prediction(train_file_name, pred_file_name):
 
     model_path = train_file_name[:-5]
     dump(model_white, f'modle/{name}_white_model.joblib')
-    dump(model_brown, f'{model_path}_model_brown.joblib')
+    dump(model_brown, f'modle/{name}_model_brown.joblib')
 
     x_white_pred = df_pred_clean[selected_features_white]
     x_brown_pred = df_pred_clean[selected_features_brown]
