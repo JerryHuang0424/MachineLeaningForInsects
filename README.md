@@ -1,2 +1,3 @@
 # MachineLeaningForInsects
 用于对稻飞虱发生情况进行预测
+，主要文件都在master分支中
